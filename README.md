@@ -32,4 +32,4 @@
 1. [Contest Sigma - 2014](2014/Contest Sigma - 2014)
 	- [Cartelas de Bingo Aleatórias [Accepted]](2014/Contest Sigma - 2014/cartelas_de_bingo_aleatorias.cpp)
 	- [Shuffle [Accepted]](2014/Contest Sigma - 2014/shuffle.cpp)
-	- [Sequência de Threebonacci [Accepted]](2014/Contest Sigma - 2014/sequencia_threebonacci.cpp)
+	- [Sequência de Threebonacci [Accepted]](2014/Contest Sigma - 2014/sequencia_de_threebonacci.cpp)
