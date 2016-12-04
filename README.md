@@ -23,4 +23,13 @@
 	- [Numeração Romana para Número de Páginas [Accepted]](2015/Prova 1 de Programação de Computadores da UNILA 2015-2/numeracao_romana_para_numeros_de_pagina.cpp)
 	- [Polígonos Regulares Simples [Accepted]](2015/Prova 1 de Programação de Computadores da UNILA 2015-2/poligonos_regulares_simples.cpp)
 	- [Pula Sapo [Accepted]](2015/Prova 1 de Programação de Computadores da UNILA 2015-2/pula_sapo.cpp)
+2. [Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015)
+    - [Brincando com Números [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/brincando_com_numeros.cpp)
 	
+	
+
+### [2014](2014/)
+1. [Contest Sigma - 2014](2014/Contest Sigma - 2014)
+	- [Cartelas de Bingo Aleatórias [Accepted]](2014/Contest Sigma - 2014/cartelas_de_bingo_aleatorias.cpp)
+	- [Shuffle [Accepted]](2014/Contest Sigma - 2014/shuffle.cpp)
+	- [Sequência de Threebonacci [Accepted]](2014/Contest Sigma - 2014/sequencia_threebonacci.cpp)
