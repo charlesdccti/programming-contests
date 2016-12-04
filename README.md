@@ -25,6 +25,19 @@
 	- [Pula Sapo [Accepted]](2015/Prova 1 de Programação de Computadores da UNILA 2015-2/pula_sapo.cpp)
 2. [Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015)
     - [Brincando com Números [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/brincando_com_numeros.cpp)
+    - [Lavanderia [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/lavanderia.cpp)
+    - [Triângulo Trinomial [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/triangulo_trinomial.cpp)
+    - [Economia Brasileira [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/economia_brasileira.cpp)
+    - [Ferozes e Curiosos [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/feozes_e_curiosos.cpp)
+    - [Cortando Canos [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/cortando_canos.cpp)
+    - [O Rato no Labirinto [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/o_rato_no_labirinto.cpp)
+    - [Onde Estão Minhas Chaves [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/onde_estao_minhas_chaves.cpp)
+    - [Catálogo de Livros [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/catalogo_de_livros.cpp)
+    - [Matring [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/matring.cpp)
+    - [Precisa-se de Matemáticos em Marte [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/precisa-se_de_matematicos_em_marte.cpp)
+    - [Soma Natural [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/soma_natural.cpp)
+    - [Agente 004 [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/agente_004.cpp)
+    - [Triângulo Trinomial, a Vingança [Accepted]](2015/Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática 2015/triangulo_trinomial_a_vinganca.cpp)
 	
 	
 
@@ -33,3 +46,5 @@
 	- [Cartelas de Bingo Aleatórias [Accepted]](2014/Contest Sigma - 2014/cartelas_de_bingo_aleatorias.cpp)
 	- [Shuffle [Accepted]](2014/Contest Sigma - 2014/shuffle.cpp)
 	- [Sequência de Threebonacci [Accepted]](2014/Contest Sigma - 2014/sequencia_de_threebonacci.cpp)
+	- [Embaralhamento de Bits [W.A]](2014/Contest Sigma - 2014/embaralhamento_de_bits.cpp)
+	- [Preso no Castelo [W.A]](2014/Contest Sigma - 2014/preso_no_castelo.cpp)
