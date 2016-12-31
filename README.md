@@ -81,8 +81,8 @@
 
 ### [2003](2003/)
 1. [OBI - Olimpíada Brasileira de Informática 2003](2003/OBI - Olimpíada Brasileira de Informática 2003)
-    - [Cofrinhos da Vó Vitória [Trying]](2003/OBI - Olimpíada Brasileira de Informática 2003/cofrinhos_da_vo_vitoria.cpp)
-    - [Estágio [Trying]](2003/OBI - Olimpíada Brasileira de Informática 2003/estagio.cpp)
+    - [Cofrinhos da Vó Vitória [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/cofrinhos_da_vo_vitoria.cpp)
+    - [Estágio [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/estagio.cpp)
     - [Número de Erdos [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/numero_de_erdos.cpp)
     - [Tetris [Trying]](2003/OBI - Olimpíada Brasileira de Informática 2003/tetris.cpp)
     - [Torres de Hanói [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/torres_de_hanoi.cpp)
