@@ -86,4 +86,11 @@
     - [Número de Erdos [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/numero_de_erdos.cpp)
     - [Tetris [Trying]](2003/OBI - Olimpíada Brasileira de Informática 2003/tetris.cpp)
     - [Torres de Hanói [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/torres_de_hanoi.cpp)
-    
+
+### [2000](2000/)
+1. [OBI - Olimpíada Brasileira de Informática 2000](2000/OBI - Olimpíada Brasileira de Informática 2000)
+    - [Bits Trocados [Accepted]](2000/OBI - Olimpíada Brasileira de Informática 2000/bits_trocados.cpp)
+    - [Macaco-prego [Accepted]](2000/OBI - Olimpíada Brasileira de Informática 2000/macaco_prego.cpp)
+    - [Quermesse [Accepted]](2000/OBI - Olimpíada Brasileira de Informática 2000/quermesse.cpp)
+    - [Rede Ótica [Trying]](2000/OBI - Olimpíada Brasileira de Informática 2000/rede_otica.cpp)
+    - [Saldo de Gols [Accepted]](2000/OBI - Olimpíada Brasileira de Informática 2000/saldo_de_gols.cpp)
