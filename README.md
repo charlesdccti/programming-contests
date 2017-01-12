@@ -88,6 +88,14 @@
     - [Tartarugas [Trying]](2014/Contest Bonilha 2014/tartarugas.cpp)
     - [Abreviações [Accepted]](2014/Contest Bonilha 2014/abreviacoes.cpp)
 
+### [2013](2013/)
+1. [Maratona de Programação UDESC 2013](2013/Maratona de Programação UDESC 2013)
+    - [Corrida dos Marrecos [Accepted]](2013/Maratona de Programação UDESC 2013/corrida_dos_marrecos.cpp)
+    - [Gloud Computing [Accepted]](2013/Maratona de Programação UDESC 2013/gloud_computing.cpp)
+    - [Engarrafamento [Trying]](2013/Maratona de Programação UDESC 2013/engarrafamento.cpp)
+    - [Jogo do Maior [Accepted]](2013/Maratona de Programação UDESC 2013/jogo_do_maior.cpp)
+    - [Quem Vai a Festa? [Accepted]](2013/Maratona de Programação UDESC 2013/quem_vai_a_festa.cpp)
+
 ### [2003](2003/)
 1. [OBI - Olimpíada Brasileira de Informática 2003](2003/OBI - Olimpíada Brasileira de Informática 2003)
     - [Cofrinhos da Vó Vitória [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/cofrinhos_da_vo_vitoria.cpp)
