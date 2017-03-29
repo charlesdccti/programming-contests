@@ -104,6 +104,14 @@
     - [Tetris [Trying]](2003/OBI - Olimpíada Brasileira de Informática 2003/tetris.cpp)
     - [Torres de Hanói [Accepted]](2003/OBI - Olimpíada Brasileira de Informática 2003/torres_de_hanoi.cpp)
 
+### [2002](2002/)
+1. [OBI - Olimpíada Brasileira de Informática 2002](2002/OBI - Olimpíada Brasileira de Informática 2002)
+    - [Aeroporto [Accepted]](2002/OBI - Olimpíada Brasileira de Informática 2002/aeroporto.cpp)
+    - [Caça ao Tesouro [Accepted]](2002/OBI - Olimpíada Brasileira de Informática 2002/caca_ao_tesouro.cpp)
+    - [Dobradura [Accepted]](2002/OBI - Olimpíada Brasileira de Informática 2002/dobradura.cpp)
+    - [Pedágio [Accepted]](2002/OBI - Olimpíada Brasileira de Informática 2002/pedagio.cpp)
+    - [Temperatura Lunar [Accepted]](2002/OBI - Olimpíada Brasileira de Informática 2002/temperatura_lunar.cpp)
+
 ### [2000](2000/)
 1. [OBI - Olimpíada Brasileira de Informática 2000](2000/OBI - Olimpíada Brasileira de Informática 2000)
     - [Bits Trocados [Accepted]](2000/OBI - Olimpíada Brasileira de Informática 2000/bits_trocados.cpp)
